@@ -1,0 +1,10 @@
+.now-watch>.now-watch-list {
+  overflow-x: auto;
+  flex-wrap: nowrap;
+
+}
+
+.now-watch>.now-watch-list>.col-xl-12 {
+  display: inline-block;
+  float: none;
+}
